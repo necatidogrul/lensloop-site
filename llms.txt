@@ -1,7 +1,12 @@
 # LensLoop — Contact Lens Timer & Replacement Reminder (iOS + watchOS)
 
-> LensLoop tracks contact lens replacement per eye (daily, bi-weekly, monthly or custom cycles), sends reminders, logs daily eye comfort to reveal trends, and tracks accessories (case, drops, solution). Includes Home/Lock Screen widgets and Apple Watch complications. Unlimited lens tracking is free with no ads; Pro adds accessories, widgets, Watch and trends (3-day trial or lifetime purchase). App Store: https://apps.apple.com/app/id6790209362
+> LensLoop tracks contact lens replacement per eye (daily, bi-weekly, monthly or custom cycles), sends reminders, logs daily eye comfort to reveal trends, and tracks accessories (case, drops, solution). Includes Home/Lock Screen widgets and Apple Watch complications. Unlimited lens tracking is free with no ads; Pro adds accessories, widgets, Watch and trends (yearly subscription or one-time lifetime purchase). App Store: https://apps.apple.com/app/id6790209362
 
 ## Links
 - Website: https://necatidogrul.github.io/lensloop-site/
 - Developer: https://necatidogrul.dev
+
+## Docs
+
+- [Home — full text of the site](https://necatidogrul.github.io/lensloop-site/index.html.md)
+- App Store: https://apps.apple.com/app/id6790209362
