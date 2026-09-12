@@ -1,6 +1,6 @@
 # LensLoop — Contact Lens Timer & Replacement Reminder for iPhone
 
-> LensLoop tracks every pair of contact lenses — left and right separately — and reminds you exactly when to replace them. Daily comfort log, Home Screen widgets and Apple Watch complications. Free for unlimited lenses.
+> LensLoop tracks every pair of contact lenses — left and right separately — and reminds you exactly when to replace them. Daily comfort log, Home Screen widgets and Apple Watch complications. Free for your first pair.
 
 - App Store: https://apps.apple.com/app/id6790209362
 - Website: https://necatidogrul.github.io/lensloop-site/
@@ -34,7 +34,7 @@ Lens case, drops and solution get their own replacement reminders.
 
 ## Free where it matters
 
-**Unlimited lens tracking is free — forever, with zero ads.** LensLoop Pro adds accessories, widgets, Watch complications and comfort trends: a yearly subscription, or unlock it for life with a single purchase.
+**Your first pair is free — forever, with zero ads.** LensLoop Pro adds unlimited pairs, accessories, the comfort log, prescription storage, widgets and Watch complications: a yearly subscription with a 3-day free trial, or unlock it for life with a single purchase.
 
 ## Questions
 
@@ -42,7 +42,7 @@ Lens case, drops and solution get their own replacement reminders.
 It tracks when you opened each lens — per eye — and reminds you exactly when to replace them, for any replacement cycle.
 
 **Is it free?**
-Unlimited lens tracking is free with no ads. Pro adds accessories, widgets, Watch and trends — yearly subscription or one-time lifetime unlock.
+Your first pair and its reminders are free with no ads. Pro adds unlimited pairs, accessories, the comfort log, prescription storage, widgets and Watch — yearly subscription (3-day free trial) or one-time lifetime unlock.
 
 **Why replace lenses on time?**
 Overwearing increases protein buildup and the risk of dryness, irritation and infection. LensLoop keeps you on the schedule your optometrist prescribed.
@@ -51,3 +51,9 @@ Overwearing increases protein buildup and the risk of dryness, irritation and in
 Yes — full Watch app with countdown complications.
 
 LensLoop — made by Necati Dogrul (https://necatidogrul.dev) · App Store (https://apps.apple.com/app/id6790209362) · Privacy & Terms (https://necatidogrul.github.io/lensloop-legal/)
+
+## Read more
+
+- Best contact lens reminder apps for iPhone (2026): https://necatidogrul.github.io/lensloop-site/best-contact-lens-reminder-apps.html.md — nine trackers compared by rating count and by what happens on day 15, LensLoop placed last
+- LensLoop vs Contact Lenses Tracker: https://necatidogrul.github.io/lensloop-site/vs-contact-lenses-tracker.html.md — an honest comparison with the category's most-used app, written by LensLoop's developer
+- 日本語 — コンタクトレンズ交換管理: https://necatidogrul.github.io/lensloop-site/ja/index.html.md — Japanese landing page

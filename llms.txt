@@ -8,5 +8,8 @@
 
 ## Docs
 
+- [Best contact lens reminder apps for iPhone (2026)](https://necatidogrul.github.io/lensloop-site/best-contact-lens-reminder-apps.html.md): nine trackers compared by US rating count and by repeat reminders, widgets, per-eye tracking and comfort; LensLoop placed last, conflict disclosed.
+- [LensLoop vs Contact Lenses Tracker](https://necatidogrul.github.io/lensloop-site/vs-contact-lenses-tracker.html.md): side-by-side with the category's most-used app (DOUBLE U, since 2016), explicit about where it is better.
+- [日本語 — コンタクトレンズ交換管理・リマインダー](https://necatidogrul.github.io/lensloop-site/ja/index.html.md): Japanese-language page for コンタクトレンズ 交換 リマインダー / コンタクト 管理 アプリ queries.
 - [Home — full text of the site](https://necatidogrul.github.io/lensloop-site/index.html.md)
 - App Store: https://apps.apple.com/app/id6790209362
