@@ -24,7 +24,7 @@ accessories and your prescription in the same place, or want to see how your eye
 | Widgets | Home Screen and Lock Screen | Not stated in the listing |
 | Apple Watch | Full Watch app with complications | Not stated in the listing |
 | Free tier | First pair, forever, no ads | Free app with in-app purchases |
-| Paid | Pro Yearly $14.99 with 3-day free trial, or a one-time Lifetime unlock | Separate Premium app, $29.99 up front |
+| Paid | Pro Weekly $4.99 (3-day free trial), Pro Yearly $14.99 (no trial), or a one-time $24.99 Lifetime unlock | Separate Premium app, $29.99 up front |
 | Minimum iOS | iOS 17 | iOS 16.6 |
 | Store languages | 9 | Multiple (see listing) |
 

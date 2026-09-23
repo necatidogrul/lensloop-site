@@ -5,7 +5,7 @@
 - App Store: https://apps.apple.com/app/id6790209362
 - Website: https://necatidogrul.github.io/lensloop-site/
 - Developer: Necati Dogrul — https://necatidogrul.dev
-- Last updated: 2026-09-12
+- Last updated: 2026-09-24
 
 Stop guessing when your contacts expire. LensLoop tracks every pair — left and right separately — and reminds you exactly when it's time for a fresh one.
 
@@ -34,7 +34,7 @@ Lens case, drops and solution get their own replacement reminders.
 
 ## Free where it matters
 
-**Your first pair is free — forever, with zero ads.** LensLoop Pro adds unlimited pairs, accessories, the comfort log, prescription storage, widgets and Watch complications: a yearly subscription with a 3-day free trial, or unlock it for life with a single purchase.
+**Your first pair is free — forever, with zero ads.** LensLoop Pro adds unlimited pairs, accessories, the comfort log, prescription storage, widgets and Watch complications: a weekly or yearly subscription, or a one-time lifetime unlock. The 3-day free trial is offered on the weekly plan only.
 
 ## Questions
 
@@ -42,7 +42,7 @@ Lens case, drops and solution get their own replacement reminders.
 It tracks when you opened each lens — per eye — and reminds you exactly when to replace them, for any replacement cycle.
 
 **Is it free?**
-Your first pair and its reminders are free with no ads. Pro adds unlimited pairs, accessories, the comfort log, prescription storage, widgets and Watch — yearly subscription (3-day free trial) or one-time lifetime unlock.
+Your first pair and its reminders are free with no ads. Pro adds unlimited pairs, accessories, the comfort log, prescription storage, widgets and Watch — weekly or yearly subscription (the 3-day free trial is on the weekly plan only) or a one-time lifetime unlock.
 
 **Why replace lenses on time?**
 Overwearing increases protein buildup and the risk of dryness, irritation and infection. LensLoop keeps you on the schedule your optometrist prescribed.
